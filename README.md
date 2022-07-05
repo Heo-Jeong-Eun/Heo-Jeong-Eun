@@ -6,7 +6,8 @@
  
 <table><tr><td valign="top" width="33%">
   
-### Most Use  
+<br/> 
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -15,7 +16,8 @@
 
 </td><td valign="top" width="33%">
 
-### To Study  
+<br/> 
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -30,7 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center"> Tools </div> 
 <br/>  
  
 <div align="center">  
@@ -41,6 +42,5 @@
 </td></tr></table>  
 
 <br/>  
-
-## Github Stats  
+ 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Heo-Jeong-Eun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
