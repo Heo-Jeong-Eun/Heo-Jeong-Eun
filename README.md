@@ -5,8 +5,6 @@
 <br/>  
  
 <table><tr><td valign="top" width="33%">
-
-<center>
   
 ### Most Use  
 <div align="center">  
@@ -32,7 +30,7 @@
 
 </td><td valign="top" width="33%">
 
-### Tools  
+<div align="center"> *Tools* </div> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -44,7 +42,3 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Heo-Jeong-Eun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center">
-
-</center>
