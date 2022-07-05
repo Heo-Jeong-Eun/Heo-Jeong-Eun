@@ -30,7 +30,9 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center"> ###Tools </div> 
+<div align="center"> Tools </div> 
+<br/>  
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
