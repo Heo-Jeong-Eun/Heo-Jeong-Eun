@@ -3,10 +3,11 @@
 </div>  
 
 <br/>  
-
-## My Skill Set  
+ 
 <table><tr><td valign="top" width="33%">
 
+<center>
+  
 ### Most Use  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -45,3 +46,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Heo-Jeong-Eun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
+
+</center>
