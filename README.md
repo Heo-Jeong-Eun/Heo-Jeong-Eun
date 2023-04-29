@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://postfiles.pstatic.net/MjAyMzA0MjZfMTYg/MDAxNjgyNTA5MDUxMTcy.e1auaR9z3jOrfZDJrLfgRmtwcUnFWi9WTKtlPoNsI38g.oQKRwcjidqkFNEgBCmB6uzDHx8WXS52usuP4GIePxZQg.GIF.zsnsgmlz/IMG_1531.GIF?type=w773" align="center" style="width: 90%" />
   
   <!-- <img src="https://postfiles.pstatic.net/MjAyMzA0MjZfMTYg/MDAxNjgyNTA5MDUxMTcy.e1auaR9z3jOrfZDJrLfgRmtwcUnFWi9WTKtlPoNsI38g.oQKRwcjidqkFNEgBCmB6uzDHx8WXS52usuP4GIePxZQg.GIF.zsnsgmlz/IMG_1531.GIF?type=w773" align="center" />  -->
   
