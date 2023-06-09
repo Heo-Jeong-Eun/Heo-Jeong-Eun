@@ -6,8 +6,6 @@
 
 ---
 
-<br>
-
 ### Education
 
 ---
@@ -17,8 +15,6 @@
 - **Sejong University, Department of Software** (2019.03 - 2022.08)
 
 ---
-
-<br>
 
 ### Experience
 
@@ -92,8 +88,6 @@
 >     - C++, OpenCV, ROS
 
 ---
-
-<br>
 
 ### Skills
 
