@@ -1,24 +1,16 @@
 ### Profile
 
----
+> ****Portfolio Link : <a href = https://www.notion.so/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a>Notion</a>**** 
 
-****Portfolio Link : <a href = https://www.notion.so/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a>Notion</a>**** 
-
----
 
 ### Education
 
----
+> - **Hongcheon Girls' High School** (2012.03 - 2015.02)
+> - **Kyonggi University of Science and Technology, Department of Mechatronics** (2015.03 - 2018.02)
+> - **Sejong University, Department of Software** (2019.03 - 2022.08)
 
-- **Hongcheon Girls' High School** (2012.03 - 2015.02)
-- **Kyonggi University of Science and Technology, Department of Mechatronics** (2015.03 - 2018.02)
-- **Sejong University, Department of Software** (2019.03 - 2022.08)
-
----
 
 ### Experience
-
----
 
 > ****<a href = https://www.notion.so/Market-Research-Android-APP-f175fe5f6a2749378a3a75a9d0ada32b>1. Market Research App (Android App) - 2021</a>****
 > 
@@ -87,15 +79,11 @@
 > - **Language, Framework, Infra**
 >     - C++, OpenCV, ROS
 
----
 
 ### Skills
-
----
 
 `C` `C++` `Python` `Shell` `Git` `GitHub` 
 `HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `MySQL` `PHP` `React` 
 `Java` `Spring` `AndroidStudio` 
 `OpenCV` `ROS` `Machine Learning` `Deep Learning`
 
----
