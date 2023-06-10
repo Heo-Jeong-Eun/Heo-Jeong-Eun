@@ -12,15 +12,22 @@
 
 ### Experience
 
-> ****<a href = https://www.notion.so/Market-Research-Android-APP-f175fe5f6a2749378a3a75a9d0ada32b>1. Market Research App (Android App) - 2021</a>****
+> ****<a href = https://www.notion.so/Shopping-Mall-Web-a4eaa04ac1464732891c015031fe73ae>1. Shopping Mall (Web) - 2020</a>****
 > 
-> - Open Source SW Lecture at Sejong University, **Personal Project**
->     - Link **Open API**, recall data with id value and output
->     - Categorize the data in the form of a **Map** and then output
+> - **2-person Project** at Sejong University
+> - **Role** in a Project
+>     - **Data Collection**
+>     - **Functional Design**
+>         - Implementation of Sign up page
+>         - Design of System Function Diagram
+>         - Design of E-R diagram
+>         - DB table member, size design
+>         - UI Deployment
+>     - PaperWork
 > - **Language, Framework, Infra**
->     - Java, Spring, JSON, XML, Window, Android, Android Studio, Open API, HTTP
+>     - MySQL, PHP, ERwin, HTML, CSS, JavaScript, Shell, Terminal, Window
 
-> ****<a href = https://www.notion.so/Self-study-space-Reservation-Android-APP-467023061c094f748a8abb184f0dade5>2. Self-study space Reservation (Android App) - 2020</a>****
+> ****<a href = https://www.notion.so/Lecture-Room-Reservation-Android-APP-467023061c094f748a8abb184f0dade5>2. Lecture Room Reservation (Android App) - 2020</a>****
 > 
 > - **3-person Project** at Sejong University
 > - **Role** in a Project
@@ -35,20 +42,13 @@
 > - **Language, Framework, Infra**
 >     - Java, Spring, MySQL, PHP, HTML, CSS, JavaScript, Window, Android, Android Studio
 
-> ****<a href = https://www.notion.so/Shopping-Mall-Web-a4eaa04ac1464732891c015031fe73ae>3. Shopping Mall (Web) - 2020</a>****
+> ****<a href = https://www.notion.so/Market-Research-Android-APP-f175fe5f6a2749378a3a75a9d0ada32b>3. Market Research App (Android App) - 2021</a>****
 > 
-> - **2-person Project** at Sejong University
-> - **Role** in a Project
->     - **Data Collection**
->     - **Functional Design**
->         - Implementation of Sign up page
->         - Design of System Function Diagram
->         - Design of E-R diagram
->         - DB table member, size design
->         - UI Deployment
->     - PaperWork
+> - Open Source SW Lecture at Sejong University, **Personal Project**
+>     - Link **Open API**, recall data with id value and output
+>     - Categorize the data in the form of a **Map** and then output
 > - **Language, Framework, Infra**
->     - MySQL, PHP, ERwin, HTML, CSS, JavaScript, Shell, Terminal, Window
+>     - Java, Spring, JSON, XML, Window, Android, Android Studio, Open API, HTTP
 
 > ****<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>4. Autonomous Driving, Lane-Aware Driving - 2023</a>****
 > 
@@ -86,4 +86,3 @@
 `HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `MySQL` `PHP` `React` 
 `Java` `Spring` `AndroidStudio` 
 `OpenCV` `ROS` `Machine Learning` `Deep Learning`
-
