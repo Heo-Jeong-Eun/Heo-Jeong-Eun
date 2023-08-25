@@ -44,8 +44,8 @@
 
 ### Skills
 
-`C` `C++` `Python` `Shell` `Git` `GitHub` 
+`C` `C++` `Python` `Shell` `Git` `GitHub` <br>
 `HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `MySQL` `PHP` `React` 
-`Java` `Spring` `AndroidStudio` 
-`TensorFlow` `PyTorch` 
+`Java` `Spring` `AndroidStudio` <br>
+`TensorFlow` `PyTorch` <br>
 `OpenCV` `ROS` `Machine Learning` `Deep Learning` 
