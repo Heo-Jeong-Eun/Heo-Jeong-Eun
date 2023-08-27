@@ -39,7 +39,7 @@
 >         - **LaneKeeping System**
 >     - PaperWork
 > - **Language, Framework, Infra**
->     - C++, Python, OpenCV, ROS, Linux, Ubuntu, Github
+>     - C++, Python, OpenCV, ROS, Linux, Ubuntu, Github, Xycar
 
 > ****<a href = https://www.notion.so/KITTI-nuScenes-Deep-Learning-e3b5c4c9ea6f4fc294e3d41a2f75380d>KITTI + nuScenes (Deep Learning Project) - 2023</a>****
 > 
@@ -64,12 +64,13 @@
 >         - Config File
 >     - PaperWork
 > - **Language, Framework, Infra**
->     - C++, Python, OpenCV, ROS, YOLOv3, Linux, Ubuntu, AWS, Github
+>     - C++, Python, OpenCV, ROS, YOLOv3, Linux, Ubuntu, AWS, Github, Xycar
 
 > ****<a href = https://www.notion.so/ORB-SLAM3-d2d8d426aae84e448c410cfdbd4ed169>ORB SLAM3</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
+>     - Configuring Environment
 >     - **Run ORB SLAM3**
 >     - PaperWork
 > - **Language, Framework, Infra**
