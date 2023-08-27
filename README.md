@@ -12,7 +12,7 @@
 
 ### Experience
 
-> ****<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>Autonomous Driving, Lane-Aware Driving (Online) - 2023</a>****
+> ****<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>Lane-Aware Driving - 2023</a>****
 > 
 > - **2-person Project** at Dev-Course Perception
 > - **Role** in a Project
@@ -28,7 +28,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, Linux, Ubuntu, Github
 
-> ****<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Autonomous Driving, Lane-Aware Driving - 2023</a>****
+> ****<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Lane-Aware Driving (Xycar) - 2023</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
@@ -41,7 +41,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, ROS, Linux, Ubuntu, Github, Xycar
 
-> ****<a href = https://www.notion.so/KITTI-nuScenes-Deep-Learning-e3b5c4c9ea6f4fc294e3d41a2f75380d>KITTI + nuScenes (Deep Learning Project) - 2023</a>****
+> ****<a href = https://www.notion.so/KITTI-nuScenes-Deep-Learning-e3b5c4c9ea6f4fc294e3d41a2f75380d>KITTI + nuScenes - 2023</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
@@ -54,7 +54,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, YOLOv5, Linux, Ubuntu, AWS, Colab, Github
 
-> ****<a href = https://www.notion.so/Object-Detection-8e6952e4ae7f4e89ba63f8db68139014>Autonomous Driving, Object Detection Driving- 2023</a>****
+> ****<a href = https://www.notion.so/Object-Detection-8e6952e4ae7f4e89ba63f8db68139014>Object Detection Driving- 2023</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
