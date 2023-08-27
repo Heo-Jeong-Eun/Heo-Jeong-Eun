@@ -54,7 +54,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, YOLOv5, Linux, Ubuntu, AWS, Colab, Github
 
-> ****<a href = https://www.notion.so/Object-Detection-8e6952e4ae7f4e89ba63f8db68139014>Object Detection - 2023</a>****
+> ****<a href = https://www.notion.so/Object-Detection-8e6952e4ae7f4e89ba63f8db68139014>Autonomous Driving, Object Detection Driving- 2023</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
@@ -66,7 +66,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, ROS, YOLOv3, Linux, Ubuntu, AWS, Github, Xycar
 
-> ****<a href = https://www.notion.so/ORB-SLAM3-d2d8d426aae84e448c410cfdbd4ed169>ORB SLAM3</a>****
+> ****<a href = https://www.notion.so/ORB-SLAM3-d2d8d426aae84e448c410cfdbd4ed169>ORB SLAM3 - 2023</a>****
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
