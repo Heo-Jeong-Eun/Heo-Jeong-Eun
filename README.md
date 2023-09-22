@@ -1,3 +1,5 @@
+# Perception Engineer
+
 ### Profile
 
 > ****Portfolio Link : <a href = https://www.notion.so/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a>Notion</a>**** 
@@ -88,8 +90,8 @@
 
 ### Skills
 
-`C` `C++` `Python` `Shell` `Git` `GitHub` <br>
+**`C` `C++` `Python` `Shell` `Git` `GitHub`** <br>
 `HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `MySQL` `PHP` `React` 
 `Java` `Spring` `AndroidStudio` <br>
-`TensorFlow` `PyTorch` <br>
-`OpenCV` `ROS` `Machine Learning` `Deep Learning` 
+**`TensorFlow` `PyTorch`** <br>
+**`OpenCV` `ROS` `Machine Learning` `Deep Learning`**
