@@ -1,6 +1,6 @@
 ### Profile
 
-> ****Portfolio Link : <a href = https://www.notion.so/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a>Notion</a>**** 
+> ****Portfolio Link : <a href = https://www.notion.so/i-am-jen/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a>Notion</a>**** 
 
 
 ### Education
