@@ -12,7 +12,7 @@
 
 ### Experience
 
-> **<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>Line Detection Driving - 2023</a>**
+> **<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>Lane Keeping System - 2023</a>**
 > 
 > - **2-person Project** at Dev-Course Perception
 > - **Role** in a Project
@@ -28,7 +28,7 @@
 > - **Language, Framework, Infra**
 >     - C++, Python, OpenCV, Linux, Ubuntu, Github
 
-> **<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Line Detection Driving (Xycar) - 2023</a>**
+> **<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Lane Keeping System (Xycar) - 2023</a>**
 > 
 > - **4-person Project** at Dev-Course Perception
 > - **Role** in a Project
