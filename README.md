@@ -14,7 +14,7 @@
 
 > **<a href = https://www.notion.so/Online-Xycar-Drive-85248b2069b049159c92788a1746529c>Lane Keeping System - 2023</a>**
 > 
-> - **2-person Project** at Dev-Course Perception
+> - **2-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - **Algorithms Design**
 >         - Image Calibration
@@ -30,7 +30,7 @@
 
 > **<a href = https://www.notion.so/Offline-Xycar-Drive-b395e5a9a12b4458b6e1705aa91a4116>Lane Keeping System (Xycar) - 2023</a>**
 > 
-> - **4-person Project** at Dev-Course Perception
+> - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - **Algorithms Design**
 >         - Canny Edge
@@ -43,7 +43,7 @@
 
 > **<a href = https://www.notion.so/KITTI-nuScenes-Deep-Learning-e3b5c4c9ea6f4fc294e3d41a2f75380d>KITTI + nuScenes - 2023</a>**
 > 
-> - **4-person Project** at Dev-Course Perception
+> - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - **Algorithms Design**
 >         - **Data Preprocessing**
@@ -56,7 +56,7 @@
 
 > **<a href = https://www.notion.so/Object-Detection-8e6952e4ae7f4e89ba63f8db68139014>Object Detection Driving- 2023</a>**
 > 
-> - **4-person Project** at Dev-Course Perception
+> - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - Data Labeling
 >     - **Algorithms Design**
@@ -68,7 +68,7 @@
 
 > **<a href = https://www.notion.so/ORB-SLAM3-d2d8d426aae84e448c410cfdbd4ed169>ORB SLAM3 - 2023</a>**
 > 
-> - **4-person Project** at Dev-Course Perception
+> - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - Configuring Environment
 >     - **Run ORB SLAM3**
@@ -78,7 +78,7 @@
 
 > **<a href = https://www.notion.so/BEV-Fusion-with-PointPainting-Heading-Extract-b3b0f04b4cc04e64956f6af3e98fd003>BEV Fusion with PointPainting & Heading Extract - 2023</a>**
 > 
-> - **4-person Project** at Dev-Course Perception
+> - **4-Person Project** at Dev-Course Perception
 > - **Role** in a Project
 >     - **Algorithms Design**
 >         - **Heading Extract**
