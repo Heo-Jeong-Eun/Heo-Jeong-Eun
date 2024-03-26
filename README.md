@@ -13,7 +13,7 @@
 ### Experience
 
 > **[1. Autonomous Driving, Lane Keeping](https://www.notion.so/85248b2069b049159c92788a1746529c?pvs=21) [System - 2023](https://www.notion.so/85248b2069b049159c92788a1746529c?pvs=21) [(Online) - 2023](https://www.notion.so/85248b2069b049159c92788a1746529c?pvs=21)**
-> - **'Lane Detection by using the Sliding Window'**
+> - **Lane Detection by using the Sliding Window**
 > - 2-Person Project at Dev-Course Perception
 > - Role in a Project
 >     - Algorithms Design
