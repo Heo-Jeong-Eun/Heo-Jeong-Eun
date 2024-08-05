@@ -47,7 +47,7 @@
 - Language, Framework, Infra
     - C++, Python, OpenCV, ROS, Linux, Ubuntu, Github, Xycar
 
-### [KITTI + nuScenes (Deep Learning Project)](https://www.notion.so/KITTI-nuScenes-e3b5c4c9ea6f4fc294e3d41a2f75380d?pvs=21)
+### [KITTI + nuScenes](https://www.notion.so/KITTI-nuScenes-e3b5c4c9ea6f4fc294e3d41a2f75380d?pvs=21)
 
 - **Learning the YOLOv5 Model by Mixing Multiple Datasets, Analyzing Results**
 - 4-Person Project at Dev-Course Perception
