@@ -95,6 +95,18 @@
     - PaperWork
 - Language, Framework, Infra
     - C++, Python, OpenCV, Linux, Ubuntu, AWS, Github
+ 
+### [Kaggle Playground Competitions, Binary Classification of Insurance Cross Selling](https://www.notion.so/Binary-Classification-of-Insurance-Cross-Selling-caf0beabac5b4ed08826c5570dc92f66?pvs=21)
+
+- **Participated in Kaggle Playground Competitions - Binary Classification of Insurance Cross Selling, and achieved the Top 9%**
+- Role in a Project
+    - **Project Manager, ML Engineer**
+        - Baseline Design
+        - Data-Preprocessing
+        - Logistic Regression Modeling
+        - Paper Work
+- Language, Framework, Infra
+    - Python, Tensorflow, PyTorch, Kaggle Notebook
 
 ### Skills
 
