@@ -98,8 +98,8 @@
 
 ### Skills
 
-**`C` `C++` `Python` `Shell` `Git` `GitHub` `Linux` `Ubuntu`** <br>
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB` `MySQL` `PHP` `React` 
-`Java` `Spring` `AndroidStudio` <br>
-**`TensorFlow` `PyTorch`** <br>
-**`OpenCV` `ROS` `Machine Learning` `Deep Learning`**
+`C` `C++` `Python` `Shell` 
+`Git` `GitHub` `Colab` `AWS` 
+`Linux` `Ubuntu` `ROS` 
+`OpenCV` 
+`TensorFlow` `PyTorch` `Machine Learning` `Deep Learning`
