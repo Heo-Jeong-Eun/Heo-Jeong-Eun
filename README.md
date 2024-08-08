@@ -1,5 +1,5 @@
 ## Profile
-> Portfolio made in Notion and Linkedin, Click the icon to move it.
+> Portfolio and Linkedin, Click the icon to move it.
 
 <a href="https://www.notion.so/i-am-jen/J-s-Portfolio-0e818bc5e9904f428b1d222e8dbee99a" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/baaa10f4-56b7-4b1d-8740-ec61aa433e13" width="80" height="80" alt="Portfolio"></a>
