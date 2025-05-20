@@ -33,7 +33,7 @@
 - Language, Framework, Infra
     - C++, Python, OpenCV, Linux, Ubuntu, Github
 
-### [Autonomous Driving, Lane Keeping System](https://www.notion.so/Lane-Keeping-System-Offline-Xycar-b395e5a9a12b4458b6e1705aa91a4116?pvs=21)
+### [Autonomous Driving, Lane Keeping System with Xycar](https://www.notion.so/Lane-Keeping-System-Offline-Xycar-b395e5a9a12b4458b6e1705aa91a4116?pvs=21)
 
 - **Design a Xycar system for Lane Keeping System using the Hough Transform Algorithm**
 - Role in a Project
