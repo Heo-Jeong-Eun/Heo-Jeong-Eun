@@ -9,7 +9,7 @@
 
 ## Career
 
-### Vanta Seoul
+### [Vanta Seoul](https://www.linkedin.com/company/vantaseoul/)
 >
 > <strong>PMO Head</strong><br>
 > 2025.08.11 – Currently in Office<br>
