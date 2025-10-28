@@ -7,6 +7,26 @@
     <img src="https://github.com/user-attachments/assets/331dacae-19b9-4514-86bd-411a5b235d58" width="80" height="80" alt="Linkedin"></a>
 
 
+## Career
+
+### Vanta Seoul
+>
+> <strong>PMO Head</strong><br>
+> 2025.08.11 – Currently in Office<br>
+> Seoul, South Korea | 대면재택혼합근무
+> 
+> - Project Leadership & Strategic Planning
+> - Process Management & Operations
+> - Service Planning & UX Strategy
+> - R&D Bridging
+> - Brand & Design Direction
+> - External Communication & Stakeholder Management
+> 
+> **Skills**
+> 
+> `AI Project Management` `Artificial Intelligence and Machine Learning (AI/ML)` `Communication Planning`
+
+
 ## Education
 
 - Hongcheon Girls' High School (2012.03 - 2015.02) <br>
