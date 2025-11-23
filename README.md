@@ -152,3 +152,4 @@
 `Linux` `Ubuntu` `ROS` 
 `OpenCV` 
 `TensorFlow` `PyTorch` `Machine Learning` `Deep Learning`
+`Figma` `Notion` `Slack` `Discord`
