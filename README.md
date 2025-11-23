@@ -24,7 +24,7 @@
 > 
 > **Skills**
 > 
-> `AI Project Management` `Artificial Intelligence and Machine Learning (AI/ML)` `Communication Planning`
+> `AI Project Management` `Artificial Intelligence and Machine Learning (AI/ML)` `Communication Planning` `Figma` `Notion` `Github`
 
 
 ## Education
